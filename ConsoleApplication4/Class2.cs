@@ -8,5 +8,6 @@ namespace ConsoleApplication4
 {
     class Class2
     {
+        // feature 2
     }
 }
